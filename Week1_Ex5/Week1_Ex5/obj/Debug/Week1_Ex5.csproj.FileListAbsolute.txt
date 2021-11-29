@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\bin\Debug\Week1_Ex5.exe.config
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\bin\Debug\Week1_Ex5.exe
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\bin\Debug\Week1_Ex5.pdb
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\obj\Debug\Week1_Ex5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\obj\Debug\Week1_Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\obj\Debug\Week1_Ex5.exe
+C:\Users\Admin\source\repos\Week1_Ex5\Week1_Ex5\obj\Debug\Week1_Ex5.pdb

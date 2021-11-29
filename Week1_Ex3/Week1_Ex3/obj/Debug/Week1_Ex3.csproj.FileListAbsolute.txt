@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\bin\Debug\Week1_Ex3.exe.config
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\bin\Debug\Week1_Ex3.exe
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\bin\Debug\Week1_Ex3.pdb
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\obj\Debug\Week1_Ex3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\obj\Debug\Week1_Ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\obj\Debug\Week1_Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\obj\Debug\Week1_Ex3.exe
+C:\Users\Admin\source\repos\Week1_Ex3\Week1_Ex3\obj\Debug\Week1_Ex3.pdb
